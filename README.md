@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niloy Sarkar
-- 👀 I’m interested in ... Problem solving, AI/ML and all things JS and Python
-- 🌱 I’m currently learning ... Python, Blockchain, NodeJS, GCP
-- 💞️ I’m looking to collaborate on ... AI/ML, Web dev projects
+- 👀 I’m interested in ... Problem solving, Web Dev and all things JS, Go and Python
+- 🌱 I’m currently learning ... Golang, NodeJS, Python, AWS
+- 💞️ I’m looking to collaborate on ... Web dev projects, Microservices, distributed systems, User interfaces
 - 📫 How to reach me ... www.linkedin.com/in/niloy-sarkar or NLYSRKR10@GMAIL.COM
 
 <!---
